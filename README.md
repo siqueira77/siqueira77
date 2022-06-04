@@ -1,4 +1,4 @@
-- 👋 olaa, eu sou o @siqueira77
+- 👋 olá, eu sou o @siqueira77
 - Atualmente estudo Engenharia da computação, e gosto muito do que faço e estudo
 - no momento meu foco esta no estudo de WEB, bem como JavaScript, HTML, CSS e a parte de servidores XAMP,
 - porem tenho algumas praticas gerais de logica de programaçao e bom entendimento de linguagens,
